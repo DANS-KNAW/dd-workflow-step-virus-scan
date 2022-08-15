@@ -13,10 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package nl.knaw.dans.virusscan.core.health;
+package nl.knaw.dans.virusscan.health;
 
 import nl.knaw.dans.virusscan.core.model.DataverseVersionResponse;
 import nl.knaw.dans.virusscan.core.service.DataverseApiService;
+import nl.knaw.dans.virusscan.health.DataverseHealthCheck;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
