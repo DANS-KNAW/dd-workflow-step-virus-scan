@@ -16,7 +16,6 @@
 package nl.knaw.dans.virusscan.health;
 
 import nl.knaw.dans.virusscan.core.service.ClamdService;
-import nl.knaw.dans.virusscan.health.ClamdHealthCheck;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
